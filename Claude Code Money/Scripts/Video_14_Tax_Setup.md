@@ -1,141 +1,270 @@
-### Video 14: Tax, Business Setup, and Legal (The Unsexy But Important Part)
-### Video 14: Tax, Business Setup, and Legal (The Unsexy But Important Part)
+# VIDEO 14 — Business Setup for AI Developers: Taxes, LLC, Invoicing (The Practical Checklist)
 
-**Title:** "Business Setup for AI Developers: Taxes, LLC, Invoicing (The Practical Checklist)"
+---
 
-**Hook (0-30 seconds):**
-"Most developers making $5K-$20K per month don't have a business structure. They're just freelancing under their social security number. Here's the actual cost, the actual liability, and the actual checklist to get it right."
+## PHẦN 1 — TIÊU ĐỀ + CAPTION
 
-**Main Script (1,500-1,800 words):**
+**Tiêu đề:** Business Setup for AI Developers: Taxes, LLC, Invoicing (The Practical Checklist)
 
-"Let me be straight: If you're making over $2K per month and you don't have a business structure, you're probably doing it wrong.
+**Caption:**
+```
+Most developers making $5K-$20K per month don't have a business structure.
 
-Not illegal necessarily. But suboptimal from a tax and liability perspective.
+They're just freelancing under their social security number.
 
-Here's the practical breakdown.
+Here's the actual cost, the actual liability, and the actual checklist to get it right.
 
-**THE BUSINESS STRUCTURE OPTIONS**
+Spoiler: It's cheaper and easier than you think.
 
-Option 1: Sole Proprietorship (No structure)
-- Cost: $0
-- Setup time: 0
-- Taxes: File Schedule C with personal tax return
-- Liability: Personal liability (if sued, they come after personal assets)
-- Best for: Less than $2K/month or very temporary
+An LLC takes 4-5 hours and costs $125-$500.
 
-Option 2: LLC (Limited Liability Company)
-- Cost: $50-$500 depending on state
-- Setup time: 1-2 hours online
-- Taxes: You choose (pass-through or C-Corp)
-- Liability: Protected (only business assets at risk)
-- Best for: Most developers, especially those doing agency/freelancing
+Taxes take 30% of your income anyway. But with proper structure, you can reduce that by 10-15% through deductions.
 
-Option 3: C-Corporation
-- Cost: $200-$800
-- Setup time: 2-3 hours
-- Taxes: Corporate tax (15% federal minimum), plus dividend tax (double taxation)
-- Liability: Protected
-- Best for: Larger companies planning to raise capital
+Equipment deduction: Computer ($1,500 depreciated).
+Home office: $200/month deductible.
+Software: Claude Pro $20/month, GitHub $4/month.
+Mileage: $0.67/mile for business driving.
 
-Option 4: S-Corporation (Pass-through corp)
-- Cost: $100-$500 + accounting fees
-- Setup time: 1-2 hours to file election
-- Taxes: Complex (self-employment tax on salary only, not distributions)
-- Liability: Protected
-- Best for: Developers making $40K+/year (self-employment tax savings)
+If you make $50K/year and have $5K in deductions:
 
-**My recommendation:** Most developers should use an LLC. Simple, cheap, protects liability.
+Before LLC: $50K taxable income → ~$15K in taxes.
+After LLC with deductions: $45K taxable income → ~$13.5K in taxes.
 
-**THE LLC SETUP CHECKLIST**
+You save $1.5K in year one just by setting up properly.
 
-Step 1: Choose a business name (1 hour)
-- Go to your state's business database and search availability
-- Tip: Don't overthink. 'Smith Dev LLC' or 'YourName Solutions LLC' works.
+In this video, I break down:
 
-Step 2: File articles of organization (1 hour)
-- Go to your state's Secretary of State website
-- Fill out form (usually 5-10 minutes)
-- Pay filing fee ($50-$500 depending on state)
-- Tip: Delaware is $125, California is $70, Texas is $0. For most people, your home state is fine.
+✅ LLC vs Sole Proprietorship vs S-Corp (which one)
+✅ Step-by-step LLC setup (4-5 hours, $125-500)
+✅ EIN (Employer Identification Number) - instant, free
+✅ Business bank account (keeps finances clean)
+✅ Liability insurance ($400-800/year)
+✅ Accounting setup (Wave or QuickBooks)
+✅ Tax reality: 27-50% depending on income and state
+✅ Deductible expenses (equipment, software, home office, mileage)
+✅ Quarterly estimated tax payments
+✅ Invoicing system (automatic reminders, tracking)
+✅ Simple contracts (what to include)
+✅ Your 90-day checklist
 
-Step 3: Get an EIN (Employer Identification Number) (30 minutes)
-- Go to irs.gov
-- Apply for EIN (free)
-- Instant approval
-- Tip: You can do this before filing LLC, saves paperwork.
+⏱️ TIMESTAMPS
+0:00 Why business setup matters
+1:00 LLC vs other structures
+2:30 LLC setup step-by-step
+4:00 EIN and bank account
+5:00 Liability insurance
+6:00 Accounting systems
+7:00 Tax reality check
+8:30 Deductible expenses
+9:45 Quarterly taxes
+10:30 Invoicing and contracts
+11:30 Your 90-day checklist
+12:15 CTA
 
-Step 4: Open a business bank account (1 hour)
-- Go to your bank
-- Bring: Articles of organization, EIN letter, personal ID
-- Open account (usually free)
-- Tip: Keep business and personal accounts separate. Makes taxes way easier.
+💬 Comment below: Have you set up your business yet? What's stopping you?
 
-Step 5: Set up business insurance (1 hour)
-- Get general liability insurance ($400-800/year for freelancers)
-- Go to Hiscox or CoverWallet
-- Protects if client sues you for something
-- Tip: Not legally required but highly recommended if doing services.
+🔔 Subscribe for the next video: The Contract Template That Protects You
 
-Total setup time: 4-5 hours
-Total cost: $125-$1,200 (mostly filing fees + insurance)
+#BusinessSetup #TaxTips #LLC #Freelancing #SideHustle #Accounting #SmallBusiness #ClaudeCode #MakeMoney
+```
 
-**THE ACCOUNTING SETUP**
+---
+
+## PHẦN 2 — VOICEOVER SCRIPT
+
+**[HOOK — 0:00 to 1:00]**
+
+Most developers making $5K-$20K per month don't have a business structure.
+
+They're just freelancing under their social security number.
+
+That's not illegal. But it's suboptimal from a tax and liability perspective.
+
+Here's the good news: Setting up an LLC takes 4-5 hours and costs $125-$500.
+
+And it'll save you $1.5K-$3K in taxes per year.
+
+So in this video, I'm going to walk you through the exact checklist to get your business setup right.
+
+**[BUSINESS STRUCTURE OPTIONS — 1:00 to 2:30]**
+
+Four options:
+
+Option 1: Sole Proprietorship. No structure. Cost: $0. Taxes: Personal liability. Not ideal beyond $2K/month.
+
+Option 2: LLC. Cost: $50-$500. Taxes: You choose pass-through or C-Corp. Liability: Protected. Best for most developers.
+
+Option 3: S-Corporation. Cost: $100-$500 plus accounting. Taxes: Complex but can save self-employment tax. Only worth it above $40K/year.
+
+Option 4: C-Corporation. Cost: $200-$800. Taxes: Corporate tax plus dividend tax (double taxation). Best for raising capital, not for solo developers.
+
+My recommendation: Most developers should use an LLC. Simple, cheap, protects liability.
+
+If making $40K+/year, consider S-Corp for self-employment tax savings. But get an accountant for that.
+
+**[LLC SETUP STEP-BY-STEP — 2:30 to 4:00]**
+
+Step 1: Choose a business name (1 hour).
+
+Go to your state's business database and search availability.
+
+Don't overthink. 'Smith Dev LLC' or 'YourName Solutions LLC' works fine.
+
+Step 2: File articles of organization (1 hour).
+
+Go to your state's Secretary of State website.
+
+Fill out form (usually 5-10 minutes).
+
+Pay filing fee ($50-$500 depending on state).
+
+Delaware is $125. California is $70. Texas is $0.
+
+For most people, your home state is fine.
+
+Step 3: Get an EIN (30 minutes).
+
+Go to irs.gov.
+
+Apply for EIN (free).
+
+Instant approval online.
+
+You can do this before filing LLC, saves paperwork.
+
+Step 4: Open a business bank account (1 hour).
+
+Go to your bank.
+
+Bring: Articles of organization, EIN letter, personal ID.
+
+Open account (usually free).
+
+Keep business and personal separate. Makes taxes way easier.
+
+Step 5: Get business insurance (1 hour).
+
+General liability insurance: $400-$800/year for freelancers.
+
+Go to Hiscox or CoverWallet.
+
+Protects if client sues you.
+
+Not legally required but highly recommended.
+
+Total setup time: 4-5 hours.
+
+Total cost: $125-$1,200 (mostly filing fees and insurance).
+
+**[ACCOUNTING SETUP — 4:00 to 5:00]**
 
 Use a tool to track expenses:
-- Wave (free)
-- QuickBooks (starts $15/month)
-- Freshbooks ($15-50/month)
+
+Wave (free). Simple, good for starting.
+
+QuickBooks ($15/month). More features, more complexity.
+
+Freshbooks ($15-$50/month). Invoicing focused.
 
 Set up a simple system:
-- Every expense receipt goes in folder
-- Every invoice issued goes in folder
-- Monthly: Reconcile bank account
-- Quarterly: Pay estimated taxes
-- Yearly: Send to accountant
 
-The $500-1,000 annual accountant is worth it. They'll save you more than they cost.
+Every expense receipt goes in a folder.
 
-**THE TAX REALITY**
+Every invoice issued goes in a folder.
 
-As a freelancer/solopreneur:
+Monthly: Reconcile bank account.
 
-Federal income tax: 12-22% depending on income
-Self-employment tax (Social Security + Medicare): 15.3%
-State income tax (varies): 0-13.3%
-Total tax rate: 27-50% depending on state
+Quarterly: Pay estimated taxes.
+
+Yearly: Send to accountant (if you hire one).
+
+A $500-$1,000 annual accountant is worth it. They'll save you more.
+
+**[TAX REALITY — 5:00 to 7:00]**
+
+Here's what you actually owe:
+
+Federal income tax: 12-22% depending on income.
+
+Self-employment tax (Social Security + Medicare): 15.3%.
+
+State income tax: 0-13.3% depending on state.
+
+Total effective tax rate: 27-50% depending on state.
 
 Realistic: You make $10K gross, you pay $3K-$5K in taxes.
 
 This is why many developers feel like they're not making much. Half goes to taxes.
 
-Deductible expenses that reduce taxes:
-- Home office space (if dedicated, ~$200/month)
-- Internet and phone (business percentage, ~$30/month)
-- Software subscriptions (Claude Pro $20, GitHub $4, etc.)
-- Equipment (computer, monitor, etc., depreciated over time)
-- Car mileage (business driving, $0.67/mile in 2025)
-- Education (courses, books, conferences)
-- Meals (if client-related business meals, 50% deductible)
+But deductions reduce taxable income.
 
-These reduce taxable income. If you have $10K revenue and $2K in deductions:
-- Taxable income: $8K
-- Taxes: $2.4K-$4K (instead of $3K-$5K)
+**[DEDUCTIBLE EXPENSES — 7:00 to 8:30]**
 
-**THE INVOICING SYSTEM**
+Real deductions that reduce taxes:
 
-Use Wave or Stripe Invoices (both free):
+Home office space (if dedicated): ~$200/month deductible.
+
+Internet and phone (business percentage): ~$30/month.
+
+Software subscriptions: Claude Pro $20, GitHub $4, other tools.
+
+Equipment (computer, monitor, keyboard): Depreciated over time ($1,500 computer = $300/year).
+
+Car mileage (business driving): $0.67/mile in 2025.
+
+Education (courses, books, conferences): Fully deductible.
+
+Meals (if client-related): 50% deductible.
+
+Example:
+
+Revenue: $10K.
+Deductions: $2K (home office, software, equipment).
+Taxable income: $8K.
+Taxes: $2.4K-$4K (instead of $3K-$5K).
+
+You save $600-$1K just by deducting expenses.
+
+**[QUARTERLY ESTIMATED TAXES — 8:30 to 9:45]**
+
+If making $10K+/month, you'll owe quarterly estimated taxes.
+
+Schedule:
+
+Q1 (Jan-Mar): File April 15.
+Q2 (Apr-Jun): File June 15.
+Q3 (Jul-Sep): File Sept 15.
+Q4 (Oct-Dec): File Jan 15 of next year.
+
+Amount: Usually 1/4 of annual projected taxes.
+
+Easiest approach: Every month, set aside 30% of revenue in a separate savings account.
+
+Pay quarterly taxes from that.
+
+End of year, leftover is your refund.
+
+Example:
+
+Monthly revenue: $8K.
+Monthly tax savings: $2.4K (30%).
+Quarterly payment: ~$3.6K (based on $40K annual projected).
+
+**[INVOICING AND CONTRACTS — 9:45 to 11:30]**
+
+Use Wave or Stripe Invoices (both free).
 
 Invoice template includes:
-- Your name, business name, address
-- Client name and address
-- Invoice date and due date
-- Itemized services and costs
-- Payment terms ('Due within 30 days')
-- Payment method (bank transfer, Stripe, etc.)
+
+Your name, business name, address.
+Client name and address.
+Invoice date and due date.
+Itemized services and costs.
+Payment terms ('Due within 30 days').
+Payment method (bank transfer, Stripe, etc.).
 
 Example invoice:
 
-```
 Smith Dev LLC
 john@smithdev.com
 
@@ -152,19 +281,20 @@ Services:
 Total: $5,000
 
 Payment terms: Net 30
-```
 
-Use Wave or Stripe invoices:
-- Automatic payment reminders
-- Automatic receipts
-- Tracks paid/unpaid
-- Integrates with accounting
+Wave or Stripe invoices:
 
-**THE CONTRACT BASICS**
+Automatic payment reminders.
+Automatic receipts.
+Tracks paid/unpaid.
+Integrates with accounting.
 
-Get a simple contract. Don't be fancy:
+**[CONTRACTS — 10:30 to 11:30]**
+
+Get a simple contract. Don't be fancy.
 
 Key clauses:
+
 1. Scope of work: 'Deliverable is X'
 2. Timeline: 'Delivery by X date'
 3. Payment: '$X due [date]'
@@ -173,91 +303,100 @@ Key clauses:
 
 Use templates (Stripe, Bonsai, or generic templates online).
 
-For most projects under $10K, a one-page agreement is fine.
+For projects under $10K, one-page agreement is fine.
 
-For projects over $10K or complex work, get a lawyer (~$200-500 for review).
+For projects over $10K or complex work, get a lawyer review (~$200-$500).
 
-**THE QUARTERLY TAX REALITY**
-
-If making $10K+/month, you'll owe quarterly estimated taxes:
-
-Schedule:
-- Q1 (Jan-Mar): File April 15
-- Q2 (Apr-Jun): File June 15
-- Q3 (Jul-Sep): File Sept 15
-- Q4 (Oct-Dec): File Jan 15 of next year
-
-Amount: Usually 1/4 of annual projected taxes
-
-Easiest approach: Every month, set aside 30% of revenue in a separate savings account. Pay quarterly taxes from that. End of year, leftover is your refund.
-
-Example:
-- Monthly revenue: $8K
-- Monthly tax savings: $2.4K (30%)
-- Quarterly payment: ~$3.6K (based on projected $40K annual income)
-
-**LIABILITY SCENARIOS**
+**[LIABILITY SCENARIOS — 11:30 to 12:00]**
 
 Why liability protection matters:
 
-Scenario 1: Client sues you for lost revenue
-- Sole proprietor: Personal assets at risk (home, car, savings)
-- LLC: Only business assets at risk (usually minimal)
+Scenario 1: Client sues you for lost revenue.
 
-Scenario 2: Someone is injured on your property
-- Sole proprietor: Personal liability
-- LLC + insurance: Insurance covers
+Sole proprietor: Personal assets at risk (home, car, savings).
+LLC: Only business assets at risk (usually minimal).
 
-Scenario 3: Contractual dispute
-- Sole proprietor: Personal liability
-- LLC: Business liability (still important to have good contract)
+Scenario 2: Someone injured on your property.
 
-**THE TIMELINE**
+Sole proprietor: Personal liability.
+LLC + insurance: Insurance covers.
 
-Month 1: Start making money as sole proprietor (simplest)
-Month 3-6: If consistent $5K+/month, set up LLC
-- Do it yourself: 4-5 hours, $125-500
-- Or hire service: CaptainForm, LegalZoom ($150-300, less work)
+Scenario 3: Contractual dispute.
 
-After LLC: Set up accounting system, get business bank account
+Sole proprietor: Personal liability.
+LLC: Business liability (still important to have good contract).
 
-Year 1: Do taxes yourself (TurboTax, Wave)
-If complex, get accountant year 2+ ($500-1K)
-
-**THE COST REALITY**
-
-First year business setup:
-- LLC filing: $125-500
-- Insurance: $400-800
-- Accounting software: Free-$200
-- Accountant (optional): $500-1000
-- Total: $1,025-$2,500
-
-As % of income:
-- If making $50K/year: 2-5% (very worth it)
-- If making $10K/year: 10-25% (still worth it for liability protection)
-
-**YOUR CHECKLIST**
+**[90-DAY CHECKLIST — 12:00 to 12:30]**
 
 Next 90 days:
-1. [ ] Set up LLC in your state ($125-500)
-2. [ ] Get EIN (free)
-3. [ ] Open business bank account (free)
-4. [ ] Get liability insurance ($400-800)
-5. [ ] Set up invoicing system (free)
-6. [ ] Open accounting folder/Wave account (free)
-7. [ ] Get contract template (free or $50)
-8. [ ] Schedule quarterly tax payments starting this quarter
 
-Don't delay. Doing this at $5K/month is 10x easier than at $50K/month."
+[ ] Set up LLC in your state ($125-$500).
+[ ] Get EIN (free).
+[ ] Open business bank account (free).
+[ ] Get liability insurance ($400-$800).
+[ ] Set up invoicing system (free).
+[ ] Open accounting folder or Wave account (free).
+[ ] Get contract template (free or $50).
+[ ] Schedule quarterly tax payments starting this quarter.
 
-**Key Data Points:**
-1. LLC setup costs $125-500 and takes 4-5 hours
-2. Liability insurance costs $400-800/year and protects personal assets
-3. Estimated quarterly taxes required for incomes over $15K annually
+Do this at $5K/month. It's 10x easier than at $50K/month.
 
-**CTA:**
-"Have you set up your business yet? Tell me your current situation. Subscribe—next video I'm showing you the exact template I use for every client contract."
+**[CLOSING + CTA — 12:30 to 13:00]**
+
+Business setup takes 4-5 hours and costs under $1,200.
+
+It saves you $1.5K-$3K per year in taxes.
+
+It protects your personal assets.
+
+It makes you look more professional to clients.
+
+There's zero reason not to do this.
+
+Comment below: Have you set up your business yet?
+
+Subscribe for the next video where I show you the contract template I use for every client project.
 
 ---
 
+## PHẦN 3 — VISUAL DIRECTION (8 scenes)
+
+[SCENE 1] Visual: Developer at desk with papers scattered (messy financial situation), frustrated expression, tax bill appearing with high number, confusion shown. Contrasted with organized developer in second half with clean structure. Mood: Before/after urgency.
+
+[SCENE 2] Visual: Four business structure options displayed as columns: Sole Proprietorship ($0, no protection), LLC ($125-500, liability protected, checkmark), S-Corp ($500+, complex, tax savings), C-Corp ($800+, for raising capital). Comparison showing LLC as best option highlighted. Mood: Clear guidance.
+
+[SCENE 3] Visual: Step-by-step LLC setup illustrated: Step 1 name search (computer screen), Step 2 filing form (document), Step 3 EIN approval (email/instant), Step 4 bank account opening (bank card), Step 5 insurance (shield icon). Timeline showing 4-5 hours total. Mood: Achievable process.
+
+[SCENE 4] Visual: Tax calculation breakdown shown visually: $10K revenue, minus 15.3% self-employment, minus 12-22% income tax, minus 0-13.3% state tax, equals ~$3K-$5K owed (pie chart showing taxes taking half). Tax burden visualization. Mood: Reality check.
+
+[SCENE 5] Visual: Deductible expenses displayed: Home office ($200/mo), Software ($24/mo), Equipment ($300/yr depreciated), Mileage ($0.67/mi), Education, Meals (50%). Visual showing total deductions reducing taxable income, $2K annual deduction example. Mood: Opportunity found.
+
+[SCENE 6] Visual: Quarterly tax timeline: Q1 (April 15), Q2 (June 15), Q3 (Sept 15), Q4 (Jan 15), calendar layout. Monthly savings account shown building ($2.4K set aside monthly), quarterly payment flowing out ($3.6K), year-end refund remaining. Mood: System clarity.
+
+[SCENE 7] Visual: Invoice template example displayed: "Smith Dev LLC" header, Invoice #001, Client info, "$5,000 Custom API Integration", Due date "Feb 1, 2025", payment terms. Multiple copies showing professional standard. Mood: Professional appearance.
+
+[SCENE 8] Visual: 90-day checklist shown as progressive tasks with checkmarks being ticked off: LLC setup ✓, EIN ✓, Bank account ✓, Insurance ✓, Invoicing ✓, Accounting ✓, Contracts ✓, Quarterly taxes ✓. Timeline showing completion by day 90. Mood: Accomplishment and structure.
+
+---
+
+## PHẦN 4 — SCENE PROMPTS (AI image generation)
+
+**SCENE 01** — Developer at desk with scattered papers and confusion (left side), frustrated expression, red tax bill appearing with large number, financial chaos, then transformation to (right side) same developer organized with clear files, green checkmarks, structured calm, before/after comparison, 2D flat illustration, 16:9
+
+**SCENE 02** — Four business structure options displayed as vertical columns with comparison: Sole Proprietorship (no protection, $0), LLC (liability protected ✓, $125-500), S-Corp (complex, tax savings, $500+), C-Corp (capital raising, $800+), LLC highlighted as best choice, comparison chart layout, 2D flat, 16:9
+
+**SCENE 03** — Five-step LLC setup illustrated sequentially: Step 1 "Name Search" (person typing), Step 2 "File Form" (document), Step 3 "Get EIN" (instant approval checkmark), Step 4 "Open Bank" (card appearing), Step 5 "Get Insurance" (shield), timeline showing "4-5 Hours Total", progress flowing left to right, 2D flat, 16:9
+
+**SCENE 04** — Tax breakdown pie chart from $10K revenue: 15.3% self-employment tax (red), 12-22% income tax (red), 0-13.3% state tax (red), remaining portion small, visual showing taxes take roughly 50%, calculation shown as "$10K → ~$3K-5K owed", tax burden reality, 2D flat chart, 16:9
+
+**SCENE 05** — Deductible expenses listed with icons: Home Office "$200/mo", Software "$24/mo (Claude+GitHub)", Equipment "$300/yr depreciated", Mileage "$0.67/mi", Education "100%", Meals "50%", total deductions shown reducing taxable income "$2K annually", savings visualization, 2D flat, 16:9
+
+**SCENE 06** — Quarterly tax timeline displayed: Months laid out with due dates "Q1 April 15, Q2 June 15, Q3 Sept 15, Q4 Jan 15", monthly savings account building visualization (stacks of money growing), $2.4K monthly savings illustrated, quarterly $3.6K payment flowing out, year-end refund remaining, system visualization, 2D flat, 16:9
+
+**SCENE 07** — Professional invoice template mockup: Header "Smith Dev LLC", "Invoice #001", Date "Jan 1, 2025", Client "ABC SaaS Co", Service "Custom API integration - $5,000", Terms "Due within 30 days", multiple invoice copies stacked showing standard professional format, documentation mood, 2D flat mockup, 16:9
+
+**SCENE 08** — 90-day checklist displayed with progressive checkmarks: "LLC Setup ✓", "Get EIN ✓", "Bank Account ✓", "Insurance ✓", "Invoicing Setup ✓", "Accounting ✓", "Contracts ✓", "Quarterly Taxes ✓", all items checking off sequentially, timeline showing "Day 90 Complete!", accomplishment mood, 2D flat checklist, 16:9
+
+---
+
+**Status:** ✅ HOÀN THÀNH

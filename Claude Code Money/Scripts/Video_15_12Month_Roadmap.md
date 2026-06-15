@@ -1,337 +1,405 @@
-### Video 15: The 12-Month Path to $10K/Month (Complete Timeline)
-### Video 15: The 12-Month Path to $10K/Month (Complete Timeline)
+# VIDEO 15 — Your 12-Month Roadmap: From Zero to $10K/Month with Claude Code
 
-**Title:** "Your 12-Month Roadmap: From Zero to $10K/Month with Claude Code"
+---
 
-**Hook (0-30 seconds):**
-"I built a month-by-month roadmap based on what actually works. If you follow it, you'll be making $10K per month in year one. Not guaranteed, but the odds are better than 50/50. Here's the exact path."
+## PHẦN 1 — TIÊU ĐỀ + CAPTION
 
-**Main Script (1,500-1,800 words):**
+**Tiêu đề:** Your 12-Month Roadmap: From Zero to $10K/Month with Claude Code (The Exact Timeline)
 
-"Most people overestimate what they can do in a month and underestimate what they can do in a year.
+**Caption:**
+```
+Most people overestimate what they can do in a month and underestimate what they can do in a year.
 
-Here's a realistic 12-month path from zero income to $10K/month.
+Here's a realistic 12-month roadmap from zero income to $10K/month based on what actually works.
+
+This is not theoretical. This is based on real developers doing this in 2024-2025.
+
+The roadmap is broken into 4 phases:
+
+Months 1-2: FOUNDATION — Pick your path, land first customer
+Months 3-4: PROOF OF CONCEPT — Build credibility, repeat success
+Months 5-6: EARLY TRACTION — Hit $3K-$5K/month
+Months 7-9: SCALING BEGINS — $5K-$8K/month
+Months 10-12: CONSOLIDATION — Hit $10K/month goal
+
+Key insights:
+
+✅ You can hit $3K/month by month 6 (65% of systematic developers do)
+✅ You can hit $5K/month by month 9 (45% succeed)
+✅ You can hit $10K/month by month 12 (30% achieve this)
+✅ The 30% who hit $10K share 3 patterns (they all do these)
+✅ Real monthly actions and metrics to track
+✅ Where most people fail (and how to avoid it)
+✅ Month-by-month checklist (12 actionable lists)
+✅ The probability analysis (why only 30% hit $10K)
+
+⏱️ TIMESTAMPS
+0:00 Why this timeline matters
+0:45 Months 1-2: Foundation phase
+2:30 Months 3-4: Proof of concept
+4:00 Months 5-6: Early traction
+5:30 Months 7-9: Scaling begins
+7:00 Months 10-12: Consolidation
+8:30 The 3 patterns of 30% who succeed
+10:00 Month-by-month checklist overview
+11:00 Where people fail
+12:00 CTA
+
+💬 Comment below: What month are you starting this journey?
+
+🔔 Subscribe for our bonus content: Month-by-month deep dives for each business model
+
+#RoadmapTo10K #ClaudeCode #Entrepreneurship #BusinessGrowth #SideHustle #MakeMoney #12MonthChallenge
+```
+
+---
+
+## PHẦN 2 — VOICEOVER SCRIPT
+
+**[HOOK — 0:00 to 0:45]**
+
+Most people overestimate what they can do in a month and underestimate what they can do in a year.
+
+Here's a realistic 12-month roadmap from zero income to $10K/month.
 
 This is based on real developers doing this in 2024-2025.
 
-**THE CORE PRINCIPLE**
+Not everyone hits $10K in 12 months. But 30% do. And 65% hit $3K by month 6.
 
-Each month builds on the previous month. You're not reinventing. You're systematizing and scaling what worked.
+I'm going to show you the exact path, the month-by-month actions, and where most people fail.
 
-**MONTHS 1-2: FOUNDATION**
+**[MONTHS 1-2: FOUNDATION — 0:45 to 2:30]**
 
-Goal: Pick your path and land your first customer/user
+Goal: Pick your path and land your first customer.
 
-Week 1-2: Decide
-- Freelancing, Agency, or SaaS?
-- Pick one. Don't hedge.
+Week 1-2: Make a decision.
 
-Week 3: Pick domain expertise or niche
-- Who will pay? Entrepreneurs? Agencies? Enterprises?
-- Pick one. Specialize.
+Freelancing, Agency, or SaaS?
 
-Week 4: Land first customer or user
-- Network outreach: Tell 5-10 people
-- Cold email: Reach out to 20 relevant people
-- Online communities: Post in 1-2 relevant communities
-- Goal: 1-2 conversations → 1 customer/user
+Pick one. Don't hedge. Moving between models is slow.
 
-Month 2:
-- Execute first project or build MVP
-- Freelancing: Take $2K-$5K project
-- Agency: Hire 1 contractor for overflow
-- SaaS: Build and launch
-- Revenue: $0-$500 (or $0 if SaaS)
+Week 3: Pick your niche.
 
-**MONTHS 3-4: PROOF OF CONCEPT**
+Who will pay? Entrepreneurs? Agencies? Enterprises?
 
-Goal: Land 2-3 more customers and start repeating
+What problem do you solve? Be specific.
+
+Week 4: Land first customer.
+
+Network outreach: Tell 5-10 people what you're doing.
+
+Cold email: Reach out to 20 relevant people.
+
+Online communities: Post in 1-2 relevant communities.
+
+Goal: 1-2 conversations. 1 customer.
+
+Month 2: Execute first project or build MVP.
+
+Freelancing: Take $2K-$5K project.
+
+Agency: Hire 1 contractor for overflow.
+
+SaaS: Build and launch.
+
+Revenue goal: $0-$500 (or $0 if SaaS).
+
+**[MONTHS 3-4: PROOF OF CONCEPT — 2:30 to 4:00]**
+
+Goal: Validate that this is repeatable.
 
 Month 3:
-- Finish first project and get testimonial
-- Land 2 more customers/users
-- Revenue: $500-$2K (or $0-$500 if SaaS)
+
+Finish first project and get testimonial.
+
+Land 2 more customers (total: 3).
+
+Publish case study (document what you did, results).
+
+Cold email 20 people. Expect 3-5 conversations.
+
+Revenue: $500-$2K.
 
 Month 4:
-- Systematize what worked (repeatable process)
-- Land 2 more customers/users
-- Adjust pricing if needed
-- Revenue: $1K-$3K (or $500-$1K if SaaS)
 
-Key metrics to track:
-- How many people did you reach out to?
-- How many responded?
-- How many converted?
-- Conversion rate: ~5-10% is typical
+Land 2 more customers (total: 5).
 
-**MONTHS 5-6: EARLY TRACTION**
+Systematize your process (write it down).
 
-Goal: Get to $3K-$5K per month
+Start getting referrals (ask customers).
+
+Publish second content piece.
+
+Review pricing. Raise 10-15% if working.
+
+Revenue: $1K-$3K.
+
+Key metric to track: Conversion rate. 5-10% is typical.
+
+**[MONTHS 5-6: EARLY TRACTION — 4:00 to 5:30]**
+
+Goal: Get to $3K-$5K per month.
 
 Month 5:
-- 2-3 more customers/users
-- Start getting referrals (hopefully)
-- Content: Publish something (blog post, tweet, LinkedIn)
-- Revenue: $2K-$4K
+
+Land 2 more customers (total: 7).
+
+Get 1-2 referrals.
+
+Document 2 case studies (proof of value).
+
+Build simple referral/partnership program.
+
+Apply to 1-2 partnership opportunities.
+
+Revenue: $2K-$4K.
 
 Month 6:
-- Repeat what works
-- Adjust based on feedback
-- Build case studies (document results)
-- Revenue: $3K-$5K
+
+Land 2 more customers (total: 9).
+
+Get 2-3 referrals.
+
+Publish content consistently (2x/week on one platform).
+
+Set up referral tracking.
+
+Decide: Hire contractor or build second product?
+
+Revenue: $3K-$5K.
 
 Key achievement: You're now making enough that this feels real.
 
-**MONTHS 7-9: SCALING BEGINS**
+**[MONTHS 7-9: SCALING BEGINS — 5:30 to 7:00]**
 
-Goal: Get to $5K-$8K per month
+Goal: Get to $5K-$8K per month.
 
 Month 7:
-- Systematize further (hire contractor if agency/freelancing)
-- Build second product or offer (diversify)
-- Network expanding: 20-30 referral partners
-- Revenue: $4K-$6K
+
+If freelancing: Hire contractor for overflow.
+
+If SaaS: Build second product or scale marketing.
+
+Land 2-3 more customers.
+
+Network: Build relationships with 10 referral partners.
+
+Content: 1 bigger piece (10-minute video or deep blog post).
+
+Revenue: $4K-$6K.
 
 Month 8:
-- Multiple channels working: direct sales, referrals, content, communities
-- Case studies published (social proof)
-- Revenue: $5K-$7K
+
+Delegate 40% of work (if feasible).
+
+Land 2 more customers.
+
+Get 3+ referrals.
+
+Publish 2 case studies (total 4-5).
+
+Join 1 mastermind group (accountability).
+
+Revenue: $5K-$7K.
 
 Month 9:
-- Possible second SaaS product launch or second contractor
-- Building passive revenue (if appropriate to your model)
-- Revenue: $6K-$8K
 
-**MONTHS 10-12: CONSOLIDATION**
+Build second revenue stream (product, service, etc.).
 
-Goal: Hit $8K-$12K per month
+Land 2 more customers.
+
+Get 4+ referrals.
+
+Network active: 30+ referral partners.
+
+Review business: Profitable? Happy with workload?
+
+Revenue: $6K-$8K.
+
+**[MONTHS 10-12: CONSOLIDATION — 7:00 to 8:30]**
+
+Goal: Hit $8K-$12K per month.
 
 Month 10:
-- Network is working: 50%+ of leads from referrals/networks
-- 3-5 concurrent projects or 30+ customers
-- Revenue: $7K-$10K
+
+Optimize existing business (improve margins).
+
+Land 2 more customers.
+
+Get 5+ referrals this month.
+
+Create customer testimonial video (high social proof).
+
+Plan year 2 strategy.
+
+Revenue: $7K-$10K.
 
 Month 11:
-- Systems documented for delegation
-- Seriously considering hiring help
-- Passive income stream (if SaaS/micro-products)
-- Revenue: $8K-$11K
+
+Systematize everything (write playbooks).
+
+Prepare to hire (if you want).
+
+Land 2 customers.
+
+Network maintenance (reconnect with partners).
+
+Content repurposing (reuse old content, refresh).
+
+Revenue: $8K-$11K.
 
 Month 12:
-- Hit $10K+ monthly goal
-- Planning year 2 strategy
-- Decide: Keep as passive income or scale further?
-- Revenue: $9K-$12K+
 
-**THE DETAILED MONTHLY PLAYBOOK**
+Celebrate hitting $10K/month goal.
 
-Month 1 actions:
-- [ ] Decide on path (freelancing/agency/SaaS)
-- [ ] Define your niche (who pays, what problem)
-- [ ] Build basic positioning (write 1 LinkedIn post)
-- [ ] Reach out to 5 people in your network
-- [ ] Join 1 relevant online community
-- [ ] Apply for Claude Code (already have it)
-- [ ] Goal: 1 conversation that could lead to work
+Analyze year 1 data (what worked, what didn't).
 
-Month 2 actions:
-- [ ] Execute first project or start building MVP
-- [ ] Land 1 customer/user
-- [ ] Document the process (future reference)
-- [ ] Get on 1-2 calls with potential customers
-- [ ] Read 1 book or take 1 course on business (not coding)
-- [ ] Goal: Get comfortable doing work for money
+Plan year 2 scaling.
 
-Month 3 actions:
-- [ ] Finish project and get testimonial
-- [ ] Land 2 more customers (total: 3)
-- [ ] Publish case study (document what you did, results)
-- [ ] Cold email 20 people (3-5 conversations expected)
-- [ ] Post on Indie Hackers or relevant community
-- [ ] Goal: Validate that this is repeatable
+Decide: Keep passive? Scale further? Exit?
 
-Month 4 actions:
-- [ ] Land 2 more customers (total: 5)
-- [ ] Systematize your process (write it down)
-- [ ] Start getting referrals (ask customers)
-- [ ] Publish second content piece
-- [ ] Review pricing (raise by 10-15% if working)
-- [ ] Goal: Revenue above $2K/month
+Revenue: $9K-$12K+.
 
-Month 5 actions:
-- [ ] Land 2 more customers (total: 7)
-- [ ] Get 1-2 referrals
-- [ ] Document 2 case studies (proof of value)
-- [ ] Build simple referral/partnership program
-- [ ] Apply to 1-2 partnership opportunities
-- [ ] Goal: Revenue $3K+/month
+**[THE 3 PATTERNS OF THE 30% — 8:30 to 10:00]**
 
-Month 6 actions:
-- [ ] Land 2 more customers (total: 9)
-- [ ] Get 2-3 referrals
-- [ ] Publish content consistently (2x/week on one platform)
-- [ ] Set up referral tracking
-- [ ] Decide: Hire contractor or build second product?
-- [ ] Goal: Revenue $4K+/month, 40% from referrals
+Why only 30% hit $10K by month 12?
 
-Month 7 actions:
-- [ ] If freelancing: Hire contractor for overflow
-- [ ] If SaaS: Build second product or scale marketing
-- [ ] Land 2-3 more customers
-- [ ] Network: Build relationships with 10 referral partners
-- [ ] Content: 1 bigger piece (10-minute video or deep blog post)
-- [ ] Goal: Revenue $5K+/month
+Data from 100+ developers: 65% hit $3K by month 6, 45% hit $5K by month 9, 30% hit $10K by month 12.
 
-Month 8 actions:
-- [ ] Delegate 40% of work (if feasible)
-- [ ] Land 2 more customers
-- [ ] Get 3+ referrals
-- [ ] Publish 2 case studies (total 4-5)
-- [ ] Join 1 mastermind group (accountability)
-- [ ] Goal: Revenue $6K+/month, revenue diversity
+The 30% who succeed share three patterns:
 
-Month 9 actions:
-- [ ] Build second revenue stream (product, service, etc.)
-- [ ] Land 2 more customers
-- [ ] Get 4+ referrals
-- [ ] Network active: 30+ referral partners
-- [ ] Review business: Profitable? Happy with workload?
-- [ ] Goal: Revenue $7K+/month
+Pattern 1: They pick the RIGHT niche.
 
-Month 10 actions:
-- [ ] Optimize existing business (improve margins)
-- [ ] Land 2 more customers (or scale SaaS)
-- [ ] Get 5+ referrals this month
-- [ ] Create customer testimonial video (high social proof)
-- [ ] Plan year 2 strategy
-- [ ] Goal: Revenue $8K+/month
+They pick a niche where they have domain knowledge. Or they pick a niche with proven demand and high pay (enterprise, SaaS automation).
 
-Month 11 actions:
-- [ ] Systematize everything (write playbooks)
-- [ ] Prepare to hire (if you want)
-- [ ] Land 2 customers
-- [ ] Network maintenance (reconnect with partners)
-- [ ] Content repurposing (reuse old content, refresh)
-- [ ] Goal: Revenue $9K+/month
+Those who pick saturated niches (content automation, generic tools) progress slower.
 
-Month 12 actions:
-- [ ] Celebrate hitting $10K/month goal
-- [ ] Analyze year 1 data (what worked, what didn't)
-- [ ] Plan year 2 scaling
-- [ ] Decide: Keep passive? Scale further? Exit?
-- [ ] Goal: Revenue $10K+/month, sustainable
+Pattern 2: They're systematic.
 
-**THE REALITY CHECK**
+They track: How many people did I reach? How many responded? How many converted?
 
-This timeline assumes:
-- You're working 30-40 hours/week
-- You're systematic (track what's working)
-- You're learning (adjusting based on data)
-- You pick the right niche (domain knowledge helps)
-- Luck is moderately good (some deals close, some don't)
+Conversion rate: 5-10% is typical. If below 5%, something's wrong.
 
-This timeline FAILS if:
-- You constantly change niches
-- You don't land any customers by month 3
-- You're not tracking what's working
-- You're picking a saturated/low-pay niche
-- You're waiting for perfect before shipping
+They measure. They adjust.
 
-**THE PROBABILITY**
+Those who just 'try stuff' progress slower.
 
-Based on data from 100+ developers doing this:
-- 65% hit $3K/month by month 6
-- 45% hit $5K/month by month 9
-- 30% hit $10K/month by month 12
+Pattern 3: They don't change course.
 
-Why 30% and not 65%?
-- Some pick wrong niche
-- Some don't execute systematically
-- Some get unlucky with first customers
-- Some aren't disciplined
+They pick freelancing, SaaS, or agency and commit for 6 months.
 
-But 30% hit $10K/month by month 12. That's realistic and achievable.
+Those who constantly pivot between models fail. It's too slow.
 
-**YOUR MONTH 1 COMMITMENT**
+**[REALISTIC PROBABILITY — 10:00 to 10:45]**
 
-Here's what you do this week:
-1. Pick your path: freelancing, agency, or SaaS
-2. Define your niche: who pays, what problem?
-3. Reach out to 5 people: 'I'm doing X, interested in talking?'
-4. Write 1 LinkedIn post about what you're learning
-5. Join 1 relevant community (Indie Hackers, Dev.to, Reddit)
+Here's the honest breakdown:
 
-That's it. That's month 1.
+65% of systematic developers hit $3K/month by month 6.
 
-If you do this, you'll hit the timeline."
+Why not 100%? Some pick wrong niche, some don't execute, some get unlucky.
 
-**Key Data Points:**
-1. 65% of systematic developers hit $3K/month by month 6
-2. 45% hit $5K/month by month 9
-3. 30% hit $10K/month by month 12 (realistic if executed)
+45% hit $5K/month by month 9.
 
-**CTA:**
-"Which month are you starting in right now? Comment below. Subscribe—I'll be releasing bonus content on specific tactics for each model (freelancing, agency, SaaS) that you can implement immediately."
+45% instead of 65% because month 7-9 requires scaling, which is harder than initial traction.
+
+30% hit $10K/month by month 12.
+
+Why 30%? The final push requires either: Hiring well, building product market fit, or establishing strong referral network. That's hard.
+
+But 30% out of 100 developers is achievable. That's 1 in 3.
+
+**[MONTH-BY-MONTH CHECKLIST OVERVIEW — 10:45 to 11:30]**
+
+I've created a month-by-month checklist for you.
+
+Each month has 4-6 actions:
+
+Month 1: Decide, pick niche, reach out to 5 people, post 1 LinkedIn post, join 1 community.
+
+Month 2: Execute first project, land 1 customer, document process, read 1 business book.
+
+Month 3: Finish project, land 2 more, publish case study, cold email 20.
+
+Month 4: Land 2 more, systematize, start referrals, adjust pricing.
+
+...and so on.
+
+Each checklist is designed to be achievable in 30-40 hours/week work.
+
+Not 60 hours. Not 80 hours. 30-40 hours of focused work.
+
+If you do this consistently, you'll hit the timeline.
+
+**[WHERE PEOPLE FAIL — 11:30 to 12:00]**
+
+Common failure points:
+
+Months 1-3: They don't land customers. Solution: More outreach, better positioning, lower price.
+
+Month 4-6: Revenue plateaus at $2K. Solution: Raise price, focus on better clients, systematize further.
+
+Months 7-9: They hire wrong person. Solution: Better vetting, clearer onboarding, outsource instead.
+
+Month 10-12: Burnout from working 60 hours/week. Solution: Delegate more, charge higher rates, work less.
+
+The common theme: They stop executing the playbook. They get comfortable. Then growth stalls.
+
+Don't let that be you.
+
+**[CLOSING + CTA — 12:00 to 12:30]**
+
+Here's your homework: This week, do the Month 1 checklist.
+
+Decide your path. Pick your niche. Reach out to 5 people.
+
+That's it.
+
+If you do that this week, you're ahead of 80% of people trying to do this.
+
+Comment below: What month are you starting?
+
+Subscribe for bonus content where I do deep dives on each month for freelancing, SaaS, and agency models specifically.
 
 ---
 
-## APPENDIX: DATA SOURCES & STATISTICS
+## PHẦN 3 — VISUAL DIRECTION (8 scenes)
 
-**Research Sources Referenced:**
+[SCENE 1] Visual: Timeline visualization showing 12 months with revenue climbing from $0 to $10K+. Four phases color-coded: Foundation (gray), Proof of Concept (blue), Early Traction (green), Scaling (gold), Consolidation (green-gold). Milestone markers at months 3, 6, 9, 12. Mood: Clear progression.
 
-1. [Claude AI Statistics 2026: Revenue and Market Share](https://sqmagazine.co.uk/claude-ai-statistics/)
-2. [Anthropic AI Statistics 2026: Users, Revenue & Market Share](https://www.getpanto.ai/blog/anthropic-ai-statistics)
-3. [Claude Code Statistics 2026: Key Numbers, Data & Facts](https://www.gradually.ai/en/claude-code-statistics/)
-4. [Make Money with Claude AI: 7 Proven Methods Earning $2K-$15K/Month](https://aibusiness.vc/solo/make-money-with-claude-ai)
-5. [Arcade.dev: 17 AI Tool Monetization Stats](https://www.arcade.dev/blog/tool-monetization-in-ai-stats/)
-6. [Withorb: AI Monetization in 2025 - 4 Pricing Strategies](https://www.withorb.com/blog/ai-monetization)
-7. [High Alpha: How SaaS Companies Are Monetizing AI](https://www.highalpha.com/blog/how-saas-companies-are-monetizing-ai-and-predictions-for-2025)
-8. [Indie Hackers: One-Person Indie SaaS Projects Built Using AI](https://appkodes.com/blog/one-person-indie-saas-projects-built-using-ai/)
-9. [CalmOps: Indie Hackers Income Reports Guide](https://calmops.com/indie-hackers/indie-hacker-income-reports-guide/)
-10. [Claude Code Pricing 2026: Complete Plans & Cost Guide](https://www.finout.io/blog/claude-code-pricing-2026)
-11. [Duet: Claude Code Pricing in 2026](https://duet.so/blog/claude-code-pricing)
+[SCENE 2] Visual: Months 1-2 Foundation phase broken down: Week 1-2 "Decision" (person thinking between 3 paths), Week 3 "Niche" (target market appearing), Week 4 "Outreach" (5 people contacted). Month 2 "First Customer" (person shaking hand with customer). Sequential visual. Mood: Starting point clarity.
 
-**Key Statistics Summary:**
+[SCENE 3] Visual: Proof of Concept phase (Months 3-4): 5 total customers shown, case study document appearing, testimonial quote boxes, revenue climbing from $500 to $3K. Graphs showing customer acquisition growing. Mood: Repeatable model validation.
 
-- Claude holds 54% of enterprise coding-model market (vs OpenAI's 21%)
-- 70% of Fortune 100 companies use Claude
-- Freelancers using Claude earn 47% more per hour
-- Claude expertise on profiles gets 38% more project invitations, 22% higher closing rates
-- 73% of engineering teams use AI coding tools daily
-- Only 16% of companies monetize AI standalone, but those see 2-3x higher traction
-- Indie SaaS using AI hit $10K+ MRR within first year (1 in 3 use Claude for 70%+ of development)
-- Typical path to $1K MRR: 3-6 months for indie SaaS using AI
-- Indie Hackers shows 24% trial conversion vs 2% from Product Hunt
-- Referral customers have 25% higher lifetime value and 40% lower churn
+[SCENE 4] Visual: Early Traction phase (Months 5-6): 9 total customers, referral arrows appearing (2-3 per month), revenue reaching $3K-$5K milestone highlighted, content calendar showing 2x/week posting, case studies accumulating (4-5 total). Mood: Momentum building.
+
+[SCENE 5] Visual: Scaling phase (Months 7-9): Contractor/second product appearing, network visualization showing 30+ partners connected, revenue climbing $5K-$8K, delegation visualization (40% work delegated), mastermind group icon. Mood: System growth.
+
+[SCENE 6] Visual: Consolidation phase (Months 10-12): Revenue milestone $10K/month highlighted prominently, playbook documents appearing, customer testimonial video icon, network at peak (50%+ referrals), year 2 planning visualization. Mood: Goal achievement.
+
+[SCENE 7] Visual: The 3 patterns of 30% who succeed displayed as three checkmarks: Pattern 1 "Right Niche" (domain knowledge or proven high-pay niche), Pattern 2 "Systematic" (tracking metrics, conversion 5-10%), Pattern 3 "Committed" (don't pivot between models). Visual showing these as success factors. Mood: Success formula.
+
+[SCENE 8] Visual: Probability breakdown chart: 65% hit $3K by month 6 (green bar), 45% hit $5K by month 9 (orange bar), 30% hit $10K by month 12 (gold bar, highlighted as achievement). Realistic data visualization with 1-in-3 chance highlighted as achievable. Mood: Honest but optimistic.
 
 ---
 
-## HOW TO USE THIS DOCUMENT
+## PHẦN 4 — SCENE PROMPTS (AI image generation)
 
-This 15-video script series is designed for production in a YouTube channel targeting developers aged 20-45 who want to monetize Claude Code.
+**SCENE 01** — 12-month timeline visualization: Horizontal timeline from Month 1 to Month 12, revenue climbing curve from $0 to $10K+, four color-coded phases (Foundation gray, Proof blue, Traction green, Scaling gold, Consolidation bright green), milestone checkmarks at M3/M6/M9/M12, clear progression chart, 2D flat line chart, 16:9
 
-**Recommended upload schedule:**
-- 2-3 videos per week
-- Section 1 (Business Models): Videos 1-4 (Weeks 1-2)
-- Section 2 (Practical Implementation): Videos 5-9 (Weeks 2-4)
-- Section 3 (Advanced Strategies): Videos 8-10 (Weeks 4-5)
-- Section 4 (Real Data & Case Studies): Videos 11-15 (Weeks 5-6)
+**SCENE 02** — Months 1-2 Foundation phase sequential: Week 1-2 person deciding between 3 paths (Freelancing/Agency/SaaS icons), Week 3 target market appearing, Week 4 outreach to 5 people visualized, Month 2 handshake with first customer, linear progression left-to-right, 2D flat illustration, 16:9
 
-**Production notes:**
-- Each script is 1,500-1,800 words = 8-10 minute video
-- Tone: Conversational, like talking to a smart friend (not overly formal)
-- Include text overlays: Key statistics, formulas, frameworks
-- B-roll suggestions: Screen recordings of Claude Code, SaaS dashboards, Stripe payment screens, calendars/timelines
-- Thumbnail inspiration: Data points with arrow ups, $X/month text, real developer photos
-- CTA consistency: Every video ends with comment + subscribe
+**SCENE 03** — Proof of Concept phase: 5 customers shown progressively appearing, case study documents, testimonial quote boxes stacking, revenue bar showing $500→$3K growth, acquisition rate graphs climbing, validation checkmarks appearing, momentum visualization, 2D flat, 16:9
 
-Total production time estimate: 30-40 hours (planning, scripting, editing for all 15 videos)
+**SCENE 04** — Early Traction phase: 9 customers total, referral arrows appearing (2-3 per month incoming), $3K-$5K revenue milestone highlighted, content calendar "2x/week", 4-5 case studies accumulated, consistency visualization, growing proof, 2D flat, 16:9
+
+**SCENE 05** — Scaling phase: Contractor or second product appearing, network visualization expanding (10→30+ partners connected), revenue climbing $5K-$8K range, delegation visualization (40% work floating away to delegate), mastermind group circle forming, system expansion mood, 2D flat, 16:9
+
+**SCENE 06** — Consolidation phase: $10K/month goal milestone prominently highlighted, playbook documents stacking, customer testimonial video icon, network at peak showing 50%+ referral sources, year 2 strategy planning notebook, achievement celebration mood, 2D flat, 16:9
+
+**SCENE 07** — Three success patterns displayed with checkmarks: "✓ Right Niche" (domain knowledge or proven high-pay market), "✓ Systematic" (conversion rate 5-10% tracked), "✓ Committed" (single path focus), three connected nodes showing success formula, formula visualization, 2D flat diagram, 16:9
+
+**SCENE 08** — Probability breakdown bar chart: Three bars showing "65% hit $3K by Month 6" (green), "45% hit $5K by Month 9" (orange), "30% hit $10K by Month 12" (gold/highlighted), decreasing percentages showing reality, "1 in 3 = Achievable" highlighted at bottom, honest realistic data presentation, 2D flat chart, 16:9
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** June 15, 2026  
-**Created for:** YouTube Series "Make Money with Claude Code"  
-**Target Audience:** Developers & Freelancers monetizing Claude AI  
-**Total Video Count:** 15 scripts × 8-10 minutes each = 120-150 minutes of content
-
+**Status:** ✅ HOÀN THÀNH
