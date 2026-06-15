@@ -77,16 +77,16 @@ I need to tell you why 90 days matters.
 Here's what most people don't realize.
 An emergency fund isn't about perfect numbers.
 It's about breaking the debt cycle.
-The Federal Reserve found that
-40% of Americans couldn't cover a $400 emergency
-without debt.
-That's because they have zero buffer.
-Even $1,000 changes that.
+The Federal Reserve's 2025 Economic Well-Being Report found that
+37% of Americans cannot cover a $400 emergency
+without debt. That's one in three people.
+They're forced to take out loans, max out credit cards, or borrow from family.
+Even $1,000 breaks that cycle.
 Because when a $400 emergency hits,
 you pay it from savings.
-Not credit card. Not loan. Not panic.
-That $1,000 is the difference
-between a problem and a crisis.
+Not a credit card. Not a loan. Not panic selling your investments.
+That $1,000 emergency buffer is the difference
+between a temporary problem and a financial crisis that takes years to recover from.
 
 [FRAMEWORK — 2:30]
 So here's the 90-day emergency fund strategy.

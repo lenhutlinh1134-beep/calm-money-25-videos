@@ -46,19 +46,21 @@ This channel is for educational purposes only.
 
 [HOOK — 0:00 to 1:00]
 Here's the crazy part.
-Some of the most miserable broke people
-make $100,000 a year.
-They have good jobs. Stable paychecks.
-But they're stressed. Anxious. And broke.
+Some of the most stressed, anxious, broken people
+make $100,000 to $200,000 a year.
+Great jobs. Stable paychecks. Nice job titles.
+But they wake up in panic. Bills are due. Credit cards are maxed.
+One emergency away from disaster.
 And then you have people making $40,000 a year
-who are building real wealth.
+who sleep peacefully. No debt. Savings growing.
+Building actual wealth.
 So what's the difference?
-It's not income. It's something else.
-Here's the truth.
+It's not income. It's something else entirely.
+Here's the truth that nobody wants to hear.
 A high salary doesn't create wealth.
 A system does.
-And most people with good incomes
-have the worst systems possible.
+And most people with good incomes have the worst systems possible.
+They're high-income, low-net-worth — and they don't even realize it.
 
 [SELF-INTRO + CTA — ~1:15]
 My name is TONY and this is Calm Money.

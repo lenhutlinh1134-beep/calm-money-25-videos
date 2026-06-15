@@ -70,13 +70,17 @@ They think he's special.
 Exceptional intelligence. Exceptional instinct.
 That's 10% of it.
 The other 90% is boring.
-It's consistency. Patience. Index funds.
+It's consistency. Patience. System building. Index funds.
 Here's what most people don't realize.
 Buffett's best investment advice ever given?
+And I'm quoting directly:
 "Don't try to beat the market.
 Just buy an index fund."
 That's it.
-The billionaire's advice = buy boring funds.
+The man worth over $600 billion.
+The most successful investor in history.
+His advice? Buy boring funds and hold them forever.
+He even recommends this to his own wife in his will.
 
 [FORMULA REVEAL — 2:30]
 The Buffett Formula has four parts.
@@ -139,9 +143,11 @@ And I quote:
 He's not looking for quick wins.
 He's looking for 30-40 year returns.
 That's the difference between him and everyone else.
-While people chase quick gains,
-Buffett builds systems that work
-over decades.
+While people chase quick gains and try to time the market,
+Buffett builds boring systems that work over decades.
+His Berkshire Hathaway has returned 12.97% annually over the last 10 years.
+That's not revolutionary. It's just consistent.
+Meanwhile, people jump between hot stocks and miss the real wealth builder — time.
 
 [CLOSING + CTA — 6:45]
 Here's the simple truth.

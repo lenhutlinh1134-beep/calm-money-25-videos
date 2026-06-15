@@ -90,18 +90,23 @@ The biggest difference between people who build wealth
 and people who don't —
 isn't intelligence.
 It's behavior.
-Research from Dalbar shows that in 2024,
-the average investor returned about 16.5%.
-While the S&P 500 returned over 25%.
-Same market. Completely different results.
-That gap isn't because investors are stupid.
-It's because they buy at the wrong time.
-And sell at the wrong time.
-Driven by fear, excitement, and impatience.
+Research from Dalbar Inc. found that in 2024,
+the average investor earned only 16.5% annually,
+while the S&P 500 returned 25.5%.
+That 9-percentage-point gap isn't because investors are dumb.
+It's because they panic.
+They buy at market peaks driven by FOMO.
+They sell at market lows driven by fear.
+Psychologists call this loss aversion —
+we feel the pain of losses twice as intensely as gains.
+So when the market drops 20%, investors' brains scream: SELL NOW.
+But when it rises 20%, they've already panicked out.
+That's not investing. That's emotional trading.
 So this video will do two things.
-First — show you the simple plan for your first $100.
+First — show you the simple system for your first $100
+that removes emotion from decisions.
 Second — help you avoid the psychological traps
-that make most beginners quit.
+that trap 84% of beginner investors.
 
 [FRAMEWORK REVEAL — 2:30]
 I call it the Three Bucket System.
@@ -118,9 +123,11 @@ Ask yourself one question before you invest anything.
 If an unexpected expense hits tomorrow —
 will you need this money back immediately?
 If yes — investing is not step one.
-The Federal Reserve found that when faced
-with a $400 emergency expense,
-nearly 40% of adults couldn't cover it with cash.
+According to the Federal Reserve's 2025 Economic Well-Being Report,
+37% of American adults cannot cover a $400 emergency without borrowing.
+Think about that. Over a third of America.
+Car repair. Medical bill. Dental work.
+These aren't rare. They happen constantly.
 If a surprise bill forces you to sell your investment
 at the worst possible moment —
 investing didn't help you. It hurt you.
@@ -129,12 +136,13 @@ Putting $100 into a basic savings account isn't a boring move.
 It's investing in your ability to stay invested later.
 Because when financial stress hits,
 your brain doesn't calmly analyze long-term returns.
-It says: I need cash now.
+It panics. It screams: I need cash now.
 Psychologists call this loss aversion.
-We feel losses more intensely than gains.
+We feel the pain of losses twice as intensely as gains.
 That's what causes beginners to panic sell
-at exactly the wrong moment.
-Even a small emergency buffer prevents that.
+at exactly the wrong moment — at the market bottom.
+Even a small $1,000 emergency buffer breaks this cycle.
+Because $400 problems become a savings withdrawal, not a debt sentence.
 
 [BUCKET 2 — 4:30]
 Bucket Two. High-Interest Debt.
@@ -201,9 +209,16 @@ Not life-changing.
 But watch what happens when you build the habit.
 If you invest just $25 per week
 for 30 years at the same 7% return —
-you end up with roughly $120,000.
-Same market. Same return.
-The only difference — consistency.
+you end up with approximately $210,000.
+Yes, you read that right. $210,000.
+From investing just $1,300 per year.
+That's compound interest working for you while you sleep.
+Same market. Same 7% return.
+The only difference — one person invested monthly.
+One person didn't.
+$100 difference per person.
+$210,000 difference in outcomes.
+That's the power of consistency.
 
 [CLOSING + CTA — 8:15]
 Here's the simple truth.

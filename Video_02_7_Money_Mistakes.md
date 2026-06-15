@@ -86,9 +86,9 @@ Which is exactly why everyone makes them.
 Here's what most people don't realize.
 Being broke isn't usually about bad luck.
 It's about bad systems.
-Research from the Federal Reserve shows
-that 40% of Americans couldn't cover a $400 emergency
-without borrowing money.
+The Federal Reserve's 2025 Economic Well-Being Report found
+that 37% of Americans cannot cover a $400 emergency
+without borrowing money or going into debt.
 That's not because they don't earn enough.
 That's because they have no system.
 So these seven mistakes?
@@ -149,13 +149,14 @@ Mistake three. The minimum payment trap.
 If you're paying only minimums on debt,
 you're not solving the problem.
 You're extending it.
-Credit card debt at 20% interest?
+Credit card debt at 25% interest?
 Paying minimums means you're paying interest forever.
 Here's the math most people never see.
-$5,000 credit card debt at 20% interest.
-Minimum payment only? 20 years to pay off.
-Total interest paid? $6,000.
-So you pay $11,000 for $5,000 of stuff.
+According to LendingTree, the average US credit card APR in 2024 hit 24.92% — the highest on record.
+$5,000 credit card debt at 25% interest.
+Minimum payment only? 23 years to pay off.
+Total interest paid? $7,500.
+So you pay $12,500 for $5,000 of stuff.
 That's not a payment plan.
 That's a wealth transfer to the bank.
 
