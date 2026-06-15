@@ -1,14 +1,49 @@
-### Video 3: The Freelancing Model — From $150/Hour to $250/Hour (Legitimate)
-### Video 3: The Freelancing Model — From $150/Hour to $250/Hour (Legitimate)
+# VIDEO 03 — How to Go From $150/Hour to $250/Hour as a Developer (Using Claude)
 
-**Title:** "How to Go From $150/Hour to $250/Hour as a Developer (Using Claude)"
+STATUS: ✍️ Nguyên liệu
 
-**Hook (0-30 seconds):**
-"Here's something nobody talks about: freelancers who list Claude expertise on their Upwork profiles get 38% more project invitations and close deals 22% higher than comparable profiles without AI mentions. But it's not about lying on your profile. It's about actually being better. Here's how."
+---
 
-**Main Script (1,500-1,800 words):**
+## PHẦN 1 — TIÊU ĐỀ + CAPTION
 
-"Let me be straight with you: If you're a freelancer charging $100-$150 per hour, Claude can double your income without doubling your workload.
+**Title:** How to Go From $150/Hour to $250/Hour as a Developer (Using Claude)
+
+**Full Description:**
+
+Freelancers who list Claude expertise get 38% more project invitations and 22% higher closing rates. But you need to position this correctly. Here's the exact method to legitimately increase your rates from $150-$200/hour to $250+/hour without claiming false expertise.
+
+**Timestamps & Topics:**
+- 0:00 — Hook: Why Claude changes your earning potential
+- 1:30 — The Productivity Multiplier: How Claude cuts project time in half
+- 4:15 — Pricing Strategy #1: Time-based rate increases
+- 6:30 — Pricing Strategy #2: Value-based project pricing
+- 8:45 — Positioning: What to actually say on your profile
+- 10:00 — Upwork Profile Optimization: The copy that converts
+- 11:30 — Implementation: How to raise rates without losing clients
+- 13:00 — Real example: One developer's 6-month transition
+- 14:45 — CTA: Update your profile today
+
+**Key Learnings:**
+✅ Freelancers using AI earn 47% more per hour than those without
+✅ Claude expertise mentions get 38% more project invitations and 22% higher closing rates
+✅ You can do the same work in 51% of the time—charge appropriately
+✅ Position as "rapid prototyping specialist" not "Claude expert"
+✅ Move from hourly to value-based pricing for 2-3x profit increase
+✅ Test with 15% rate increase first ($150 → $173), then another 15% in 3 months
+✅ Grandfather existing clients on old rates while new clients pay new rates
+
+**Tags:**
+freelancing, claude-code, rates, pricing, upwork, freelancer, income-increase, positioning, sales, negotiation, productivity, ai-coding, remote-work, developer, business-strategy
+
+---
+
+## PHẦN 2 — VOICEOVER SCRIPT
+
+### HOOK (0:00 - 0:45)
+
+"Here's something nobody talks about: Freelancers who list Claude expertise on their Upwork profiles get 38% more project invitations and close deals 22% higher than comparable profiles without AI mentions. But it's not about lying on your profile. It's about actually being better.
+
+Let me be straight with you: If you're a freelancer charging $100 to $150 per hour, Claude can double your income without doubling your workload.
 
 I'm not talking about replacing your skill. I'm talking about becoming 2-3x more productive with Claude as your pair programmer, and charging appropriately.
 
