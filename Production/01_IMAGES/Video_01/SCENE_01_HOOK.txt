@@ -1,0 +1,9 @@
+**SCENE 01 — HOOK**
+```
+Young man in gray hoodie lying on bed at night, scrolling smartphone,
+blue ambient glow from phone screen, skeptical confused expression,
+2D flat animation style, dark navy palette, 16:9
+```
+
+Duration: 0:00 - 0:35 (35 seconds)
+Audio section: SECTION_01_HOOK

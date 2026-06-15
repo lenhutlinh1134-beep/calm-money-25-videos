@@ -1,0 +1,10 @@
+**SCENE 02 — PROBLEM**
+```
+Split screen: LEFT character making bad trade money flying away,
+RIGHT character defeated empty wallet,
+bold white stat card: "Average investor: 16.5%" vs "S&P 500: 25%",
+2D flat animation, dark navy background, high contrast, 16:9
+```
+
+Duration: 0:35 - 1:00 (25 seconds)
+Audio section: SECTION_02_INTRO
